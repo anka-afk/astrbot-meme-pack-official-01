@@ -1,0 +1,78 @@
+﻿{
+    "maintainer":  "anka-afk",
+    "source":  {
+                   "subpath":  ".",
+                   "ref":  "main",
+                   "repo":  "anka-afk/astrbot-meme-pack-official-01",
+                   "type":  "github"
+               },
+    "id":  "official-001",
+    "tags":  [
+                 "official",
+                 "default",
+                 "starter"
+             ],
+    "version":  "1.0.0",
+    "description":  "基于当前 memes 目录整理的官方初始表情包。",
+    "name":  "官方表情包1号",
+    "categories":  {
+                       "meow":  {
+                                    "description":  "官方分类：meow"
+                                },
+                       "givemoney":  {
+                                         "description":  "官方分类：givemoney"
+                                     },
+                       "fool":  {
+                                    "description":  "官方分类：fool"
+                                },
+                       "sigh":  {
+                                    "description":  "官方分类：sigh"
+                                },
+                       "like":  {
+                                    "description":  "官方分类：like"
+                                },
+                       "sleep":  {
+                                     "description":  "官方分类：sleep"
+                                 },
+                       "color":  {
+                                     "description":  "官方分类：color"
+                                 },
+                       "happy":  {
+                                     "description":  "官方分类：happy"
+                                 },
+                       "reply":  {
+                                     "description":  "官方分类：reply"
+                                 },
+                       "shy":  {
+                                   "description":  "官方分类：shy"
+                               },
+                       "work":  {
+                                    "description":  "官方分类：work"
+                                },
+                       "angry":  {
+                                     "description":  "官方分类：angry"
+                                 },
+                       "sad":  {
+                                   "description":  "官方分类：sad"
+                               },
+                       "morning":  {
+                                       "description":  "官方分类：morning"
+                                   },
+                       "baka":  {
+                                    "description":  "官方分类：baka"
+                                },
+                       "confused":  {
+                                        "description":  "官方分类：confused"
+                                    },
+                       "cpu":  {
+                                   "description":  "官方分类：cpu"
+                               },
+                       "see":  {
+                                   "description":  "官方分类：see"
+                               },
+                       "surprised":  {
+                                         "description":  "官方分类：surprised"
+                                     }
+                   },
+    "license":  "CC-BY-NC-SA-4.0"
+}
